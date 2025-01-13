@@ -1,4 +1,3 @@
-#Sadie Wood
 #Jan 9th, 2025
 #Multiplication Quiz Game
 
