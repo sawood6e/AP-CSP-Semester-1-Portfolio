@@ -1,4 +1,3 @@
-#Sadie Wood
 #11/22/24
 #Pokemon Evolution Game
 
