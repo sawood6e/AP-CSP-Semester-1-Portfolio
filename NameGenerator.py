@@ -1,4 +1,3 @@
-#Sadie Wood
 #10/18/24
 #Name Generator
 
