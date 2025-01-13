@@ -1,4 +1,3 @@
-#Sadie Wood
 #Clickbate Headlines
 #October 11, 2024
 
