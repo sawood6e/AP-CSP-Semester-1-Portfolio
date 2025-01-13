@@ -1,4 +1,3 @@
-#Sadie Wood
 #12/9/24
 #Mad Libs Game
 
