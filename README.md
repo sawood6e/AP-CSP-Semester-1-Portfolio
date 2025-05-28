@@ -25,5 +25,5 @@ Slot Machine Game
 *Key Learnings* - Learned how to include symbols in my output and store a certain number of tokens that update based on user choices. 
 
 Magic 8 Ball Game 
-*Summary of Project* -
-*Key Learnings* - 
+*Summary of Project* - User gets to input a question of their choice and recieve and random computer generated response, as if they were asking a magic 8 ball. Simulates how the magic 8 ball must be shaken to get a response.
+*Key Learnings* - Learn how to impliment output features related to timing of output. Helps to customize the output experience. Practice using lists, random library, and while loops. 
