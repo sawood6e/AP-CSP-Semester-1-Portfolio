@@ -24,3 +24,6 @@ Slot Machine Game
 *Summary of Project* - User gets to virtually spin a slot machine, bet their tokens, and gain/lose tokens based on the outsome of their spin.
 *Key Learnings* - Learned how to include symbols in my output and store a certain number of tokens that update based on user choices. 
 
+Magic 8 Ball Game 
+*Summary of Project* -
+*Key Learnings* - 
